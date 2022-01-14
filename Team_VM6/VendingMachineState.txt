@@ -1,0 +1,21 @@
+1. SALE REPORT
+-----Here is the list of products in this Vending Maching------
+Cheetos | Price: 2.20 | Quantity: 10
+Lays | Price: 5.60 | Quantity: 4
+Doritos | Price: 2.60 | Quantity: 6
+M_M | Price: 1.20 | Quantity: 5
+Tostitos | Price: 1.50 | Quantity: 5
+Takis | Price: 3.50 | Quantity: 4
+Pringles | Price: 4.50 | Quantity: 5
+Reese | Price: 4.50 | Quantity: 6
+ClifBar | Price: 2.50 | Quantity: 6
+Kind_Energy | Price: 3.50 | Quantity: 6
+Take_Five | Price: 1.75 | Quantity: 6
+Nutter_butter | Price: 1.80 | Quantity: 4
+
+The products get sold:
+
+2. INVENTORY REPORT
+-----The items got sold in this Vending Machine-----
+-----The amount deposits into the vending mahcine -----
+Total: $0.00

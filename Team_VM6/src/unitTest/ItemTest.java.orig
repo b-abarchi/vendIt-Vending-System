@@ -1,0 +1,55 @@
+package unitTest;
+import model.Item;
+import static org.junit.jupiter.api.Assertions.*;
+
+
+import org.junit.jupiter.api.Test;
+
+class ItemTest {
+
+	@Test
+	void testItemStringDouble() {
+		Item i = new Item("Pringles", 1.70);
+		assertEquals(i.getName(), "Pringles");
+		assertEquals(i.getPrice(), 1.70);
+	}
+
+	@Test
+	void testItemString() {
+		Item i = new Item("Pringles");
+		assertEquals(i.getName(), "Pringles");
+		assertEquals(i.getPrice(), 0.00);
+	}
+
+	@Test
+	void testItemDouble() {
+		Item i = new Item(1.70);
+		assertEquals(i.getName(), null);
+		assertEquals(i.getPrice(), 1.70);
+	}
+
+	@Test
+	void testGetName() {
+		Item i = new Item("Pringles");
+		String actualOutput =  i.getName();
+		String expectedOutput = "Pringles";
+		assertEquals(actualOutput, expectedOutput);
+	}
+
+	@Test
+	void testGetPrice() {
+		Item i = new Item(1.70);
+		Double actualOutput =  i.getPrice();
+		Double expectedOutput = 1.70;
+		assertEquals(actualOutput, expectedOutput);
+	}
+
+	@Test
+	void testToString() {
+		Item i = new Item("Pringles", 1.70);
+		String actualOutput =  i.toString();
+		String expectedOutput = "Item: Pringles, Price: 1.70";
+		assertEquals(actualOutput, expectedOutput);
+	}
+
+}

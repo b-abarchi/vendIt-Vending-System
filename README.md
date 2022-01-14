@@ -1,5 +1,4 @@
-
-# vendIt-Vending-System <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Team6_f21 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Link for video-sprint1 : <img src="https://img.icons8.com/color/48/000000/services--v3.png"/> https://drive.google.com/file/d/1cMi-OeNfl5rZDPDDR9f8d9K8jOede13H/view?usp=sharing <br/> 
 ## Link for video-sprint2: <img src="https://img.icons8.com/color/48/000000/services--v3.png"/>  https://youtu.be/kcStgVCifwA
 ### Roles: </br>

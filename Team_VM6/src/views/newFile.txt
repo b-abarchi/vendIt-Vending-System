@@ -1,0 +1,13 @@
+Location: Nevins Hall at VSU 
+Cheetos 2.2 6
+Lays 5.6 3 
+Doritos 2.6 0
+M_M 1.2 0
+Tostitos 1.5 9
+Takis 3.5 0
+Pringles 4.5 10
+Reese 4.5 10
+ClifBar 2.5 7
+Kind_Energy 3.5 9
+Take_Five 1.75 9 
+Nutter_butter 1.80 10
